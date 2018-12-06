@@ -35,7 +35,7 @@ public class Test_FFSSM {
     @Before
     public void setUp() {
         
-        Mohamet = new Plongeur(1, "P1", "KONE", "Mohamet", "dakar", "5688",Calendar.getInstance());
+        Mohamet = new Plongeur(1, "P1", "KONE", "Mohamet", "paris", "5688",Calendar.getInstance());
         KAMDOM = new Plongeur(2, "P2", "KAMDOM", "merveille", "dakar", "5652",Calendar.getInstance());
 
         Aguiri = new Moniteur( "P3", "Aguiri", "Rayyane", "dakar", "5650",Calendar.getInstance(),2);
